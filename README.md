@@ -2,8 +2,11 @@
 
 ![alt text](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
 
+
+
 # Explanation & Project Organization
-    Every "feature" of the app, like getting some interesting trivia about a number, will be divided into 3 layers - presentation, domain and data.
+    - Every "feature" of the app, like getting some interesting trivia about a number, will be divided into 3 layers - presentation, domain and data.
+    - Anything that is reused goes in the core part
     
 # Presentation
     
